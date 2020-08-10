@@ -56,7 +56,7 @@ Optionally, [knitr](https://cran.r-project.org/package=knitr) from CRAN can be u
 
 ## Download demo data
 
-Download the result table from GitHub
+Download demo data files from GitHub
 
 ```S
 cd /ngs/EnrichedHeatmap-Demo
